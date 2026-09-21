@@ -1,0 +1,30 @@
+# Echi Storyboard Director
+# Copyright (c) 2026 Echi
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as published
+# by the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+# Commercial licensing:
+# If you wish to use this Skill in a closed-source product, SaaS, or
+# commercial offering without complying with the AGPL-3.0 open-source
+# obligation, please contact the author to obtain a commercial license.
+#
+# The full text of the GNU Affero General Public License v3.0 is available
+# at: https://www.gnu.org/licenses/agpl-3.0.txt
+#
+# When publishing this repository on GitHub, select "GNU Affero General
+# Public License v3.0" as the repository license; GitHub will render the
+# full canonical text automatically. This header file records the SPDX
+# identifier and key obligations for downstream packagers.
+#
+# SPDX-License-Identifier: AGPL-3.0-only
